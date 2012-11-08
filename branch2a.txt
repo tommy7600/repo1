@@ -1,0 +1,4 @@
+PLIK 2 
+ZMIANA 2
+
+BRANCH 2
